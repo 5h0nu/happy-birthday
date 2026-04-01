@@ -1,2 +1,3 @@
 # happy-birthday
-happy-birthday Happy Birthday Website made using Html, css and JavaScript Click Here
+Happy Birthday Website made using Html, css and JavaScript
+<a href="https://5h0nu.github.io/happy-birthday/?name=Gaurav" target="blank">Click Here</a>
